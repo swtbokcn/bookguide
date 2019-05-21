@@ -1,3 +1,7 @@
+# 前期准备
+
+
+
 # 如何利用github合作写书
 
 ## 参考资料
@@ -11,3 +15,4 @@
 #### [献给写作者的 Markdown 新手指南](https://www.jianshu.com/p/q81RER/)
 
 #### [如何组织书的目录结构](https://blog.csdn.net/hk2291976/article/details/51173850)
+
