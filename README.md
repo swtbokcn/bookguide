@@ -1,20 +1,20 @@
-# bookguide
-
-# 前期准备
-
-
-
 # 如何利用github合作写书
 
-## 参考资料
+# [前期准备](./Chapter1/article1.md)
 
-### github中项目的管理
 
-#### [github如何邀请合作者加入自己的项目](https://jingyan.baidu.com/article/948f5924f43f47d80ff5f9f9.html)
+## 团队需要做的准备 
+创建organization，添加成员
 
-#### [GitHub 实现多人协同提交代码并且权限分组管理](https://www.cnblogs.com/zhaoyanjun/p/5882784.html)
+# 书的架构和对应github管理 （Chapter 2）
+## 设置github上的目录结构为写书做准备
+## 创建合适的分支以方便多人合作
+## 每个作者如何编写并上传内容
+## 如何进行评审
+## 如何定期发布编写完成的内容
+## 如何提交一个issue
 
-#### [献给写作者的 Markdown 新手指南](https://www.jianshu.com/p/q81RER/)
+# 日常的管理 （Chapter 3）
+## 如何使用project功能管理日常的写作任务
 
-#### [如何组织书的目录结构](https://blog.csdn.net/hk2291976/article/details/51173850)
-
+# 参考资料
