@@ -9,7 +9,7 @@
 ## Chapter 2 书的架构和对应github管理
 
 1. [创建repository，并添加contributor](./Chapter2/rep.md)
-2. 设置github上的目录结构为写书做准备
+2. [设置github上的目录结构为写书做准备](./Chapter2/stru.md)
 3. 创建合适的分支以方便多人合作
 4. 每个作者如何编写并上传内容
 5. 如何进行评审
