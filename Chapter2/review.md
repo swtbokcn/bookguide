@@ -27,3 +27,10 @@ pull request可以直接在github的网页上发起，可以从github desktop客
    这个界面是评审人员需要只用的主要的界面。作为评审人员，你可以在这个页面的下面看到所有的变更到底是什么。然后你可以根据具体情况，填写你的comment，然后选择Comment、approve或者request changes。
 
    ![avatar](./images/review4.png)
+
+## 作者根据评审意见进行修改
+
+看到评审人员的意见后，作者根据需要对原文进行修改。作者这里的修改可以继续在原来自己的分支上修改，修改完成后push到github上。此时，原来的pull request中会自动同步最新的修改的记录。
+
+## 作者将评审后的内容merge到dev分支
+
