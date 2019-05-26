@@ -23,6 +23,6 @@
 ## Chapter 3 日常的管理
 1. [如何使用project功能管理日常的写作任务](./Chapter3/projectmnt.md)
 
-## [参考资料](./reference/Reference.md)
+## [参考资料](./Reference/reference.md)
 
 
