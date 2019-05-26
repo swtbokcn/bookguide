@@ -4,14 +4,18 @@
 2. 根据所在的章节，在对应的目录下面创建md文件，每个带数字的段落创建一个md文件。例如：“创建repository，并添加contributor”，这个是在chapter 2下面的，那么请在Chapter2这个目录下面创建一个repandcon.md文件(文件名自己定义），来编写这个内容。编写完成后，需要修改readme.md，做一个链接，这样读者通过readme.mk可以直接点进去。
 3. 图片的处理（待补充）
 
-## [Chapter 1 前期准备](./Chapter1/article1.md)
+## Chapter 1 前期准备
+
+1. [安装软件客户端](./Chapter1/article1.md)
+
+2. 了解markdown语法
 
 ## Chapter 2 书的架构和对应github管理
 
 1. [创建repository，并添加contributor](./Chapter2/rep.md)
 2. [设置github上的目录结构为写书做准备](./Chapter2/stru.md)
 3. [创建合适的分支以方便多人合作](./Chapter2/branch.md)
-4. 每个作者如何编写并上传内容
+4. [每个作者如何编写并上传内容](./Chapter2/write.md)
 5. 如何进行评审
 6. 如何定期发布编写完成的内容
 7. 如何提交一个issue
