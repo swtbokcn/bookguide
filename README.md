@@ -16,7 +16,7 @@
 2. [设置github上的目录结构为写书做准备](./Chapter2/stru.md)
 3. [创建合适的分支以方便多人合作](./Chapter2/branch.md)
 4. [每个作者如何编写并上传内容](./Chapter2/write.md)
-5. 如何进行评审
+5. [如何进行评审](./Chapter2/review.md)
 6. 如何定期发布编写完成的内容
 7. 如何提交一个issue
 
