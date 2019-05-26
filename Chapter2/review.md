@@ -34,3 +34,6 @@ pull request可以直接在github的网页上发起，可以从github desktop客
 
 ## 作者将评审后的内容merge到dev分支
 
+重新打开原来提交的pull request，点击页面中有merge pull request，并在接下来的页面中confirm merge就完成了将自己编写的内容merge到dev分支的操作了。
+
+![avatar](./images/review5.png)
