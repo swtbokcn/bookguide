@@ -1,5 +1,11 @@
 # markdown 语法
 
+介绍Markdown语法的很多，大家随便搜一下就有很多。就是常用的几种格式，大家主要先学习一下标题、列表、表格、图片和链接等常用的就可以。其他的用到的时候再看也来得及。
+1. https://www.jianshu.com/p/f3147a804368
+2. https://www.jianshu.com/p/q81RER/
+3. https://blog.csdn.net/u014061630/article/details/81359144
+4. https://www.jianshu.com/p/191d1e21f7ed
+
 # 一、标题
 
 在想要设置为标题的文字前面加#来表示
