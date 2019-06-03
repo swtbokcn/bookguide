@@ -8,6 +8,6 @@
    
 3. 下载markdown编辑器Typora
 
-   Github上的文档用的是markdown的格式。这里需要一个支持markdown的编辑器，这样才能比较方便的在自己电脑上编写文章。支持markdown格式的编辑器很多，这里我们使用的是Typora。（可以到它的官网下载https://typora.io/）
+   Github上的文档用的是markdown的格式。这里需要一个支持markdown的编辑器，这样才能比较方便的在自己电脑上编写文章。支持markdown格式的编辑器很多，这里我们使用的是Typora。（可以到它的官网下载https://typora.io/ )
 
    
