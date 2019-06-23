@@ -10,4 +10,7 @@
 
    Github上的文档用的是markdown的格式。这里需要一个支持markdown的编辑器，这样才能比较方便的在自己电脑上编写文章。支持markdown格式的编辑器很多，这里我们使用的是Typora。（可以到它的官网下载https://typora.io/ )
 
+4. 下载Word和Markdown的转换插件
+   有同学刚开始的时候不太习惯使用markdown的编辑器，还是喜欢使用word。可以安装一个插件Writage，这样能够将word格式的文档另存为markdown格式。如果要想保证转换的效果，需要Word文档中的内容无论是标题、段落标识都要统一，另外转换成的图片大小可能还需要后期调整。可以在官网下载http://www.writage.com/。
+   强烈不推荐这种转换的方式。还是推荐尽快适应markdown格式，你会发现markdown写文档非常好。
    
