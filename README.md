@@ -19,6 +19,7 @@
 4. [每个作者如何编写并上传内容](./Chapter2/write.md)
 5. [如何进行评审](./Chapter2/review.md)
 6. [如何定期发布编写完成的内容](./Chapter2/publish.md)
+7. [“拥抱变化”--对书的章节目录合理编号](./Chapter2/tableofcontent.md)
 
 ## Chapter 3 日常的管理
 1. [如何使用project功能管理日常的写作任务](./Chapter3/projectmnt.md)
