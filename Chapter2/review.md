@@ -14,7 +14,7 @@ pull request可以直接在github的网页上发起，可以从github desktop客
 
 ## 评审人员进行评审
 
-1. 上面在创建了pull request并指定评审人员后，相关评审人员的界面就会收到评审活动的通知。如下图所示。
+1. 上面在创建了pull request并指定评审人员后，相关评审人员登陆到网页的界面上就会收到评审活动的通知。如下图所示。
 
 ![avatar](./images/review2.png)
 
@@ -27,6 +27,10 @@ pull request可以直接在github的网页上发起，可以从github desktop客
    这个界面是评审人员需要只用的主要的界面。作为评审人员，你可以在这个页面的下面看到所有的变更到底是什么。然后你可以根据具体情况，填写你的comment，然后选择Comment、approve或者request changes。
 
    ![avatar](./images/review4.png)
+
+4. 当然如果是一些小问题可以直接修改的，你可以直接编辑文件，进行修改。点解每个文件的右边的那个三个小点的图标，选择“Edit File”。弹出的新的界面就是直接对文件进行编辑的，编辑完后commit就可以了。
+
+   ![1564649624705](./images/review6.png)
 
 ## 作者根据评审意见进行修改
 
